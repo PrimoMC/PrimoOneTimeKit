@@ -1,0 +1,6 @@
+prefix: "&6[&fOneTime&6] "
+notenougharguments: "&cNot enough arguments."
+typenotexist: "&6The type '&c{0}&6' doesn't exist."
+nopermission: "&cYou don't have permission to do that."
+inventoryfull: "&cYour inventory's full. Dropping items on the floor."
+alreadyused: "&cYou already used that kit!"

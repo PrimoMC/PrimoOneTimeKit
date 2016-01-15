@@ -1,0 +1,9 @@
+name: PrimoOneTimeKit
+main: net.primomc.OneTimeKit.OneTimeKit
+version: 1.0
+author: kukelekuuk00
+depend: [PlaceholderAPI]
+
+commands:
+  onetime:
+    description: The Main Command

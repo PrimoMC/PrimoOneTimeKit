@@ -1,17 +1,17 @@
-#Primo OneTimeKit
+# Primo OneTimeKit
 
 A plugin that gives people kits that they can only get once, and never again.
 Great for limited-time event items.
 Each kit has its own permissions, and the items utilize the minecraft /give json format.
 
-##Installation instructions:
+## Installation instructions:
 1. Download and install PlaceholderAPI from https://www.spigotmc.org/resources/placeholderapi.6245/
 2. Download and install PrimoOneTimeKit.
 3. Start and stop the server to create the configs.
 3. Configure PrimoOneTimeKit and PlaceholderAPI.
 7. You're done.
 
-##default config
+## default config
 The config.yml has explanations for configuring the plugin.
 
 ```yaml
